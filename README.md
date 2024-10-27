@@ -1,6 +1,6 @@
 # Long reads rare disease Paper
 
-Collection of scripts used for genomic analyses described in the "Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection" paper.
+Collection of scripts used for genomic analyses described in the **"Advancing long-read nanopore genome assembly and accurate variant calling for rare disease detection"** paper.
 
 ## 1. Genome Completeness Analysis
 
